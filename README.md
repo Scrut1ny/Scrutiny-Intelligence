@@ -1,7 +1,7 @@
 # Important-Intelligence
 This contains many important documents that expose the truth about programs, websites, etc.
 
-=============================================================================================
+============================================================================================
 
 ProtonMail
 
@@ -13,4 +13,5 @@ ProtonMail logged IP address of French activist after order by Swiss authorities
 
 Article: https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/
 
-===================================================================================
+============================================================================================
+
