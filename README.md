@@ -2,6 +2,20 @@
 This contains many important documents that expose the truth about programs, websites, etc.
 
 ```
+Five Eyes
+
+The Five Eyes (FVEY) surveillance alliance includes the following countries:
+
+ - Australia
+ - Canada
+ - New Zealand
+ - United Kingdom
+ - United States
+```
+
+
+
+```
 ProtonMail
 
 Website(s):
@@ -19,10 +33,12 @@ PureVPN
 Website(s):
  - https://www.purevpn.com/
 
-ProtonMail logged IP address of French activist after order by Swiss authorities
+PureVPN Logs Helped FBI Net Alleged Cyberstalker
 
 Article(s):
  - https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/
+Others:
+ - https://techcrunch.com/2013/10/06/purevpn/
 
 ```
 ![purevpn](https://user-images.githubusercontent.com/53458032/164873263-1d13e5c5-1c8f-4d6a-8d63-c8bc9140a3a7.png)
