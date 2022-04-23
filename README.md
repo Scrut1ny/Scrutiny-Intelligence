@@ -51,4 +51,5 @@ Others:
  - https://techcrunch.com/2013/10/06/purevpn/
 ```
 ![purevpn](https://user-images.githubusercontent.com/53458032/164873263-1d13e5c5-1c8f-4d6a-8d63-c8bc9140a3a7.png)
+![zero-logs-purevpn](https://user-images.githubusercontent.com/53458032/164874162-4c9729b5-b106-49a7-8069-3b0a227357c5.png)
 ![purevpn1](https://user-images.githubusercontent.com/53458032/164873265-b498e916-c2b3-4d6a-b452-95defc79a8c6.png)
