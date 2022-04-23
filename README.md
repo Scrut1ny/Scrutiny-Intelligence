@@ -4,48 +4,28 @@ This contains many important documents that expose the truth about programs, web
 ```
 The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-Five Eyes
+Country	Five Eyes	Nine Eyes	Fourteen Eyes	Other
 
- - United Kingdom
- - United States
- - Australia
- - Canada
- - New Zealand
+Country          Five Eyes          Nine Eyes          Fourteen Eyes          Other
 
-Nine Eyes
-
- - United Kingdom
- - United States
- - Australia
- - Canada
- - New Zealand
- - Denmark
- - Netherlands
- - France
-
-Fourteen Eyes
-
- 1 - United Kingdom
- 2 - United States
- 3 - Australia
- 4 - Canada
- 5 - New Zealand
- 6 - Denmark
- 7 - Netherlands
- 8 - France
- 9 - Norway
- 10 - Germany
- 11 - Belgium
- 12 - Spain
- 13 - Sweden
- 14 - Italy
- 
-Others
-
- 1 - Israel
- 2 - Japan
- 3 - Singapore
- 4 - South Korea
+United Kingdom   ✓                  ✓                  ✓
+United States    ✓                  ✓                  ✓
+Australia        ✓                  ✓                  ✓
+Canada           ✓                  ✓                  ✓
+New Zealand      ✓                  ✓                  ✓
+Denmark                             ✓                  ✓
+Netherlands                         ✓                  ✓
+France                              ✓                  ✓
+Norway                                                 ✓
+Germany                                                ✓
+Belgium                                                ✓
+Spain                                                  ✓
+Sweden                                                 ✓
+Italy                                                  ✓
+Israel                                                                        ✓
+Sapan                                                                         ✓
+Singapore                                                                     ✓
+South Korea                                                                   ✓
 ```
 ```
 ProtonMail
