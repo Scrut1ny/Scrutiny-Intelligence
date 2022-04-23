@@ -4,8 +4,6 @@ This contains many important documents that expose the truth about programs, web
 ```
 The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-Country	Five Eyes	Nine Eyes	Fourteen Eyes	Other
-
 Country          Five Eyes          Nine Eyes          Fourteen Eyes          Other
 
 United Kingdom   ✓                  ✓                  ✓
