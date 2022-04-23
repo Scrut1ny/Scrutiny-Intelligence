@@ -60,6 +60,10 @@ his emails or their contents, because they’re encrypted, and Proton would not 
 unencrypt them. The only reason the guy was even caught was because of the fact that their 
 IP wasn’t hidden. Had he been using something like ProtonVPN or Mullvad, the Swiss government
 wouldn’t have been able to do anything.
+
+User: Phantom
+
+That person was actually using both ProtonVPN and ProtonMail, not just ProtonMail.
 ```
 ![purevpn](https://user-images.githubusercontent.com/53458032/164873263-1d13e5c5-1c8f-4d6a-8d63-c8bc9140a3a7.png)
 ![zero-logs-purevpn](https://user-images.githubusercontent.com/53458032/164874162-4c9729b5-b106-49a7-8069-3b0a227357c5.png)
