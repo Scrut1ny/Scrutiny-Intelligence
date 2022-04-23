@@ -4,7 +4,7 @@ This contains many important documents that expose the truth about programs, web
 ```
 ProtonMail
 
-Website:
+Website(s):
  - https://protonmail.com/
  - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/
 
