@@ -49,6 +49,9 @@ Article(s):
  - https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/
 Others:
  - https://techcrunch.com/2013/10/06/purevpn/
+ 
+Lore from anonymous user: unknownuser534
+What are you talking about? The recent environmentalist incident was a result of a Swiss court order, making Proton start logging the user’s IP address. For one thing, Proton didn’t give them IP logs from before the court order, only after they were legally compelled to do so. Second, because the user was using ProtonMail, the Swiss authorities couldn’t actually access his emails or their contents, because they’re encrypted, and Proton would not be able to unencrypt them. The only reason the guy was even caught was because of the fact that their IP wasn’t hidden. Had he been using something like ProtonVPN or Mullvad, the Swiss government wouldn’t have been able to do anything.
 ```
 ![purevpn](https://user-images.githubusercontent.com/53458032/164873263-1d13e5c5-1c8f-4d6a-8d63-c8bc9140a3a7.png)
 ![zero-logs-purevpn](https://user-images.githubusercontent.com/53458032/164874162-4c9729b5-b106-49a7-8069-3b0a227357c5.png)
