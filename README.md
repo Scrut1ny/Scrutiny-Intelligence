@@ -2,19 +2,51 @@
 This contains many important documents that expose the truth about programs, websites, etc.
 
 ```
+The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
+
 Five Eyes
 
-The Five Eyes (FVEY) surveillance alliance includes the following countries:
-
+ - United Kingdom
+ - United States
  - Australia
  - Canada
  - New Zealand
+
+Nine Eyes
+
  - United Kingdom
  - United States
+ - Australia
+ - Canada
+ - New Zealand
+ - Denmark
+ - Netherlands
+ - France
+
+Fourteen Eyes
+
+ 1 - United Kingdom
+ 2 - United States
+ 3 - Australia
+ 4 - Canada
+ 5 - New Zealand
+ 6 - Denmark
+ 7 - Netherlands
+ 8 - France
+ 9 - Norway
+ 10 - Germany
+ 11 - Belgium
+ 12 - Spain
+ 13 - Sweden
+ 14 - Italy
+ 
+Others
+
+ 1 - Israel
+ 2 - Japan
+ 3 - Singapore
+ 4 - South Korea
 ```
-
-
-
 ```
 ProtonMail
 
