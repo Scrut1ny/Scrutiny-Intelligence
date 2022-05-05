@@ -36,20 +36,7 @@ ProtonMail logged IP address of French activist after order by Swiss authorities
 
 Article(s):
  - https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/
-```
-```
-PureVPN
 
-Website(s):
- - https://www.purevpn.com/
-
-PureVPN Logs Helped FBI Net Alleged Cyberstalker
-
-Article(s):
- - https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/
-Others:
- - https://techcrunch.com/2013/10/06/purevpn/
- 
 Lore from anonymous user: unknownuser534
 
 What are you talking about? The recent environmentalist incident was a result of a Swiss court 
@@ -64,6 +51,19 @@ wouldn’t have been able to do anything.
 User: Phantom
 
 That person was actually using both ProtonVPN and ProtonMail, not just ProtonMail.
+```
+```
+PureVPN
+
+Website(s):
+ - https://www.purevpn.com/
+
+PureVPN Logs Helped FBI Net Alleged Cyberstalker
+
+Article(s):
+ - https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/
+Others:
+ - https://techcrunch.com/2013/10/06/purevpn/
 ```
 ![purevpn](https://user-images.githubusercontent.com/53458032/164873263-1d13e5c5-1c8f-4d6a-8d63-c8bc9140a3a7.png)
 ![zero-logs-purevpn](https://user-images.githubusercontent.com/53458032/164874162-4c9729b5-b106-49a7-8069-3b0a227357c5.png)
