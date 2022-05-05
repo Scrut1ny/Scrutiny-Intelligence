@@ -62,9 +62,14 @@ PureVPN Logs Helped FBI Net Alleged Cyberstalker
 
 Article(s):
  - https://torrentfreak.com/purevpn-logs-helped-fbi-net-alleged-cyberstalker-171009/
+ - https://www.justice.gov/usao-ma/pr/newton-man-sentenced-over-17-years-prison-extensive-cyberstalking-campaign
+ - https://slate.com/technology/2022/03/united-states-of-anonymous-excerpt-ryan-lin-cyberstalking.html
+ - https://www.zdnet.com/article/cyberstalker-thwarted-by-vpn-logs-gets-17-years-in-prison/
+ - 
 Others:
  - https://techcrunch.com/2013/10/06/purevpn/
 ```
+![Capture](https://user-images.githubusercontent.com/53458032/166882785-b747aa8e-824d-4696-8099-03535557dea2.PNG)
 ![purevpn](https://user-images.githubusercontent.com/53458032/164873263-1d13e5c5-1c8f-4d6a-8d63-c8bc9140a3a7.png)
 ![zero-logs-purevpn](https://user-images.githubusercontent.com/53458032/164874162-4c9729b5-b106-49a7-8069-3b0a227357c5.png)
 ![purevpn1](https://user-images.githubusercontent.com/53458032/164873265-b498e916-c2b3-4d6a-b452-95defc79a8c6.png)
