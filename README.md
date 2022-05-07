@@ -1,10 +1,9 @@
 # Important-Intelligence
 This contains many important documents that expose the truth about programs, websites, etc.
 
-# The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
+## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
 | Countries | Five Eyes | Nine Eyes | Fourteen Eyes | Other |
-|           |   :---:   |   :---:   |     :---:     | :---: |
 | United Kingdom | ✔️ | ✔️ | ✔️ |
 | United States | ✔️ | ✔️ | ✔️ |
 | Australia | ✔️ | ✔️ | ✔️ |
