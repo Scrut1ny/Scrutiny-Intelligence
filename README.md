@@ -5,14 +5,14 @@ This contains many important documents that expose the truth about programs, web
 
 | Countries | Five Eyes | Nine Eyes | Fourteen Eyes | Other |
 |-|-|-|-|-|
-| United Kingdom | | |
-| United States | | |
-| Australia | | |
-| Canada | | |
-| New Zealand | | |
-| Denmark | | |
-| Netherlands | | |
-| France | | |
+| United Kingdom | ✔️ | ✔️ | ✔️ |
+| United States | ✔️ | ✔️ | ✔️ |
+| Australia | ✔️ | ✔️ | ✔️ |
+| Canada | ✔️ | ✔️ | ✔️|
+| New Zealand | ✔️ | ✔️ | ✔️ |
+| Denmark | | ✔️ | ✔️ |
+| Netherlands | | ✔️ | ✔️ |
+| France | | ✔️ | ✔️ |
 | Norway | | |
 | Germany | | |
 | Belgium | | |
