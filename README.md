@@ -13,16 +13,16 @@ This contains many important documents that expose the truth about programs, web
 | Denmark | | ✔️ | ✔️ |
 | Netherlands | | ✔️ | ✔️ |
 | France | | ✔️ | ✔️ |
-| Norway | | |
-| Germany | | |
-| Belgium | | |
-| Spain | | |
-| Sweden | | |
-| Italy | | |
-| Israel | | |
-| Sapan | | |
-| Singapore | | |
-| South Korea | | |
+| Norway | | | ✔️ |
+| Germany | | | ✔️ |
+| Belgium | | | ✔️ |
+| Spain | | | ✔️ |
+| Sweden | | | ✔️ |
+| Italy | | | ✔️ |
+| Israel | | | | ✔️ |
+| Sapan | | | | ✔️ |
+| Singapore | | | | ✔️ |
+| South Korea | | | | ✔️ |
 
 ```
 ProtonMail
