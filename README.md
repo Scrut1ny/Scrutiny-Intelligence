@@ -1,30 +1,29 @@
 # Important-Intelligence
 This contains many important documents that expose the truth about programs, websites, etc.
 
-```
-The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
+# The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-Country          Five Eyes          Nine Eyes          Fourteen Eyes          Other
+| Country eyes | Nine Eyes | Fourteen Eyes | Other |
+|---------------------------------------------------
+| United Kingdom | |
+| United States | |
+| Australia | |
+| Canada | |
+| New Zealand | |
+| Denmark | |
+| Netherlands | |
+| France | |
+| Norway | |
+| Germany | |
+| Belgium | |
+| Spain | |
+| Sweden | |
+| Italy | |
+| Israel | |
+| Sapan | |
+| Singapore | |
+| South Korea | |
 
-United Kingdom   ✓                  ✓                  ✓
-United States    ✓                  ✓                  ✓
-Australia        ✓                  ✓                  ✓
-Canada           ✓                  ✓                  ✓
-New Zealand      ✓                  ✓                  ✓
-Denmark                             ✓                  ✓
-Netherlands                         ✓                  ✓
-France                              ✓                  ✓
-Norway                                                 ✓
-Germany                                                ✓
-Belgium                                                ✓
-Spain                                                  ✓
-Sweden                                                 ✓
-Italy                                                  ✓
-Israel                                                                        ✓
-Sapan                                                                         ✓
-Singapore                                                                     ✓
-South Korea                                                                   ✓
-```
 ```
 ProtonMail
 
