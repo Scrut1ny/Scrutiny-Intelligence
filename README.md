@@ -8,7 +8,7 @@ This contains many important documents that expose the truth about programs, web
 | United Kingdom | ✔️ | ✔️ | ✔️ |
 | United States | ✔️ | ✔️ | ✔️ |
 | Australia | ✔️ | ✔️ | ✔️ |
-| Canada | ✔️ | ✔️ | ✔️|
+| Canada | ✔️ | ✔️ | ✔️ |
 | New Zealand | ✔️ | ✔️ | ✔️ |
 | Denmark | | ✔️ | ✔️ |
 | Netherlands | | ✔️ | ✔️ |
