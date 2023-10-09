@@ -3,6 +3,8 @@
 # Important-Intelligence
 This contains many important documents that expose the truth about programs, websites, etc.
 
+- [Government & Law Enforcement Apple Device & Services](https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf)
+
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
 | `Countries` | `Five Eyes` | `Nine Eyes` | `Fourteen Eyes` | `Other` |
