@@ -1,10 +1,5 @@
 ![unknown](https://user-images.githubusercontent.com/53458032/169435725-624e794e-fec9-464a-be9e-d8cc6d28f468.png)
 
-# Important-Intelligence
-This contains many important documents that expose the truth about programs, websites, etc.
-
-- [Government & Law Enforcement Apple Device & Services](https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf)
-
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
 | `Countries` | `Five Eyes` | `Nine Eyes` | `Fourteen Eyes` | `Other` |
@@ -91,5 +86,8 @@ Overall, the perception that "big brother is always watching" is a result of the
 
 ## ``Smart TV Surveillance``
 Documented Proof:
- - [Link #1](https://wikileaks.org/ciav7p1/cms/page_12353643.html)
- - [Link #2](https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/)
+    - [Link #1](https://wikileaks.org/ciav7p1/cms/page_12353643.html)
+    - [Link #2](https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/)
+
+## ``Apple Device Backdoor``
+    - [Government & Law Enforcement Apple Device & Services](https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf)
