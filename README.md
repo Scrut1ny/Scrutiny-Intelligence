@@ -93,7 +93,8 @@ Overall, the perception that "big brother is always watching" is a result of the
 ## ``Smart TV Surveillance``
 | `Documents` | `Videos` |
 |:---:|:---:|
-| [WikiLeaks](https://wikileaks.org/ciav7p1/cms/page_12353643.html) [TheIntercept_](https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/) | [YT Link](https://youtu.be/ZZCCrKzaGhY) [YT Link](https://youtu.be/a42f55YOCSg) |
+| [WikiLeaks](https://wikileaks.org/ciav7p1/cms/page_12353643.html) | [YT Link](https://youtu.be/ZZCCrKzaGhY) |
+| [TheIntercept_](https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/) | [YT Link](https://youtu.be/a42f55YOCSg) |
 
 ## ``Apple``
  - [Government & Law Enforcement Apple Device & Services](https://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf)
