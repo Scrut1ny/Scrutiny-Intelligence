@@ -2,7 +2,9 @@
 
 ## Websites
 - [WikiLeaks](https://wikileaks.org/)
-- 
+- [Cryptome](https://cryptome.org/)
+- [Public Intelligence](https://publicintelligence.net/)
+- [The Intercept_](https://theintercept.com/)
 
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
