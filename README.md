@@ -89,7 +89,7 @@ The phrase "big brother is always watching" is often used to describe the percep
 
 Overall, the perception that "big brother is always watching" is a result of the growing prevalence of surveillance technologies, concerns about national security, and the commercial collection of personal data.
 
-## ``Smart TV Surviellance``
+## ``Smart TV Surveillance``
 Documented Proof:
  - [Link #1](https://wikileaks.org/ciav7p1/cms/page_12353643.html)
  - [Link #2](https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/)
