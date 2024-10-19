@@ -9,26 +9,25 @@
 
 ## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
 
-| `Countries` | `Five Eyes` | `Nine Eyes` | `Fourteen Eyes` | `Other` |
-|-|:---:|:---:|:---:|:---:|
-| United Kingdom | ✔️ | ✔️ | ✔️ |
-| United States | ✔️ | ✔️ | ✔️ |
-| Australia | ✔️ | ✔️ | ✔️ |
-| Canada | ✔️ | ✔️ | ✔️ |
-| New Zealand | ✔️ | ✔️ | ✔️ |
-| Denmark | | ✔️ | ✔️ |
-| Netherlands | | ✔️ | ✔️ |
-| France | | ✔️ | ✔️ |
-| Norway | | | ✔️ |
-| Germany | | | ✔️ |
-| Belgium | | | ✔️ |
-| Spain | | | ✔️ |
-| Sweden | | | ✔️ |
-| Italy | | | ✔️ |
-| Israel | | | | ✔️ |
-| Sapan | | | | ✔️ |
-| Singapore | | | | ✔️ |
-| South Korea | | | | ✔️ |
+| Country       | 5 Eyes | 9 Eyes | 14 Eyes |
+|---------------|--------|--------|---------|
+| Australia     | ✔️     | ✔️     | ✔️      |
+| Canada        | ✔️     | ✔️     | ✔️      |
+| New Zealand   | ✔️     | ✔️     | ✔️      |
+| United Kingdom| ✔️     | ✔️     | ✔️      |
+| United States  | ✔️     | ✔️     | ✔️      |
+| Austria       |        |        | ✔️      |
+| Belgium       |        |        | ✔️      |
+| Denmark       |        | ✔️     | ✔️      |
+| France        |        | ✔️     | ✔️      |
+| Germany       |        | ✔️     | ✔️      |
+| Iceland       |        | ✔️     | ✔️      |
+| Italy         |        | ✔️     | ✔️      |
+| Netherlands   |        | ✔️     | ✔️      |
+| Norway        |        | ✔️     | ✔️      |
+| Sweden        |        | ✔️     | ✔️      |
+| Spain         |        |        | ✔️      |
+| Switzerland   |        |        | ✔️      |
 
 ## ``Fourteen Eyes``
 The "14 Eyes" is a term used to describe a group of countries that participate in an intelligence-sharing alliance known as the UKUSA Agreement. The countries that make up the 14 Eyes are:
