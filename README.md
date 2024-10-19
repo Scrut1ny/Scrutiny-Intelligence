@@ -7,7 +7,7 @@
 - [Public Intelligence](https://publicintelligence.net/)
 - [The Intercept_](https://theintercept.com/)
 
-## The Five, Nine, & Fourteen Eyes surveillance alliance includes the following countries:
+## Membership of Countries in 5, 9, and 14 Eyes Alliances
 
 | Country       | 5 Eyes | 9 Eyes | 14 Eyes |
 |---------------|--------|--------|---------|
